@@ -28,10 +28,11 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
-  employer         : "Beijing Information Science & 
-  Technology University"
-  # uri              : # URL
+  employer         : "Beijing Information Science &<br>Technology University"
   email            : "liuxiulei@bistu.edu.cn" 
+  Position         : Vice Dean of the Computer College
+  Title            : Professor
+  Research Field    : Natural Language Processing
 
   # Academic websites
   academia         : # URL
