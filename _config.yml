@@ -27,8 +27,8 @@ author:
   location         : "Beijing"
   employer         : "Beijing Information Science &<br>Technology University"
   email            : "liuxiulei@bistu.edu.cn" 
-  position         : Vice Dean of the Computer College
-  title            : Professor
+  position         : Vice Dean
+  academic_title   : Professor
   research-field    : Natural Language Processing
 
   # Academic websites
