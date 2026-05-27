@@ -27,6 +27,17 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
+      {% if author.position %}
+        <li><i class="fas fa-fw fa-user"></i> {{ author.position }}</li>
+      {% endif %}
+      
+      {% if author.academic_title %}
+        <li><i class="fas fa-fw fa-id-badge"></i> {{ author.academic_title }}</li>
+      {% endif %}
+      
+      {% if author.research_interests %}
+        <li><i class="fas fa-fw fa-lightbulb"></i> {{ author.research_interests }}</li>
+      {% endif %}
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
