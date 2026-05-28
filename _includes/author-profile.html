@@ -37,7 +37,10 @@
         <li><i class="fas fa-fw fa-id-badge"></i> {{ author.academic_title }}</li>
       {% endif %}
       {% if author.research_field %}
-        <li><i class="fas fa-fw fa-flask"></i> {{ author.research_field }}</li>
+      <li class="author__info-line">
+        <i class="fas fa-fw fa-flask" aria-hidden="true"></i>
+        <span>{{ author.research_field }}</span>
+      </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
