@@ -20,7 +20,7 @@ Prof. Liu has led several national-level research projects, including projects f
 
 Recent selected publications
 ======
-**CGSVD:Cascaded Granular Singular Value Decomposition for Large Language Model Compression**    _ICML 2026_
+**CGSVD:Cascaded Granular Singular Value Decomposition for Large Language Model Compression**    (_ICML 2026_)
 
 We introduce CGSVD framework that leverages a dual level non-uniform allocation strategy to maximize semantic preservation.
 
@@ -28,7 +28,7 @@ We introduce CGSVD framework that leverages a dual level non-uniform allocation 
 
 
 
-**GASPIG: Gated Arbitration of Schema Semantics and Pattern-Instance Graph for Document-Level Event Argument Extraction**   _CSCWD 2026_
+**GASPIG: Gated Arbitration of Schema Semantics and Pattern-Instance Graph for Document-Level Event Argument Extraction**   (_CSCWD 2026_)
 
 We introduce the GASPIG framework to address the challenge faced by existing methods in balancing graph topology with schema semantics.
 
