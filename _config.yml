@@ -29,7 +29,7 @@ author:
   email            : "liuxiulei@bistu.edu.cn" 
   position         : Vice Dean of Computer School
   academic_title   : Professor
-  research-field    : Natural Language Processing
+  research_field    : Knowledge graph <br>Event extraction<br>Large language model
 
   # Academic websites
   academia         : # URL
