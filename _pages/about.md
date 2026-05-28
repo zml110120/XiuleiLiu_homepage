@@ -18,7 +18,7 @@ About Me
 
 I have led several national-level research projects, including projects funded by the National Natural Science Foundation of China and sub-projects under the National Key R&D Program of China. I have published dozens of papers in top-tier international journals and conferences, obtained 17 authorized patents in China and abroad, and contributed to five international and national standards. Currently, I serve as Vice President of the Beijing Institute of Electronics, Deputy General Manager of Technology of Changping District.
 
-Recent selected publications
+Recent Selected Publications
 ======
 **CGSVD:Cascaded Granular Singular Value Decomposition for Large Language Model Compression**    (_ICML 2026_)
 
