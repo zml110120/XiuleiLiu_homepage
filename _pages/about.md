@@ -16,7 +16,7 @@ About Me
 
 2013 - 2015 Beijing University of Posts and Telecommunications, Postdoctoral Fellow
 
-Prof. Liu has led several national-level research projects, including projects funded by the National Natural Science Foundation of China and sub-projects under the National Key R&D Program of China. He has published dozens of papers in top-tier international journals and conferences, obtained 17 authorized patents in China and abroad, and contributed to five international and national standards. He currently serves as Vice President of the Beijing Institute of Electronics, Deputy General Manager of Technology of Changping District.
+I have led several national-level research projects, including projects funded by the National Natural Science Foundation of China and sub-projects under the National Key R&D Program of China. I have published dozens of papers in top-tier international journals and conferences, obtained 17 authorized patents in China and abroad, and contributed to five international and national standards. Currently, I serve as Vice President of the Beijing Institute of Electronics, Deputy General Manager of Technology of Changping District.
 
 Recent selected publications
 ======
