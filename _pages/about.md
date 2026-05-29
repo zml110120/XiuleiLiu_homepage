@@ -33,6 +33,7 @@ We introduce CGSVD framework that leverages a dual level non-uniform allocation 
 We introduce the GASPIG framework to address the challenge faced by existing methods in balancing graph topology with schema semantics.
 
 <img width="865" height="620" alt="image" src="https://github.com/user-attachments/assets/fd364b0c-50ef-4b80-9fe5-8d091e2c8d82" />
+
 ***
 
 
@@ -41,4 +42,13 @@ We introduce the GASPIG framework to address the challenge faced by existing met
 We develop a Game-theoretic Offloading Algorithm (GOALIT) to optimize LLM inference offloading and address the natural tendency of selfish users for personal utility maximization.
 
 <img width="549" height="665" alt="image" src="https://github.com/user-attachments/assets/4b4e89bb-1e16-46ec-80a1-0e63f756266f" />
+
+***
+
+**DPFuzz: A fuzz testing tool based on the guidance of defect prediction** 
+
+In this paper, we introduce DPFuzz, a tool for prioritizing the resource allocation of fuzz testing.  DPFuzz guides fuzz testing by calculating the fitness score, which is based on the coverage of modules with different defect proneness.  
+
+
+<img width="1465" height="430" alt="image" src="https://github.com/user-attachments/assets/4be86c05-e518-4392-b78e-f4b505496ee7" />
 
