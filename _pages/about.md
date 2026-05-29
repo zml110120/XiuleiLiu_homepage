@@ -37,6 +37,14 @@ We proposes LCE-IDT, a Large Language Model (LLM)-driven code evolution framewor
 
 ***
 
+**Game-Based LLM Inference Task Offloading for Edge Computing System** (	_IEEE Transactions on Green Communications and Networking, Corresponding Author_ ) 
+
+We develop a Game-theoretic Offloading Algorithm (GOALIT) to optimize LLM inference offloading and address the natural tendency of selfish users for personal utility maximization.
+
+<img width="549" height="665" alt="image" src="https://github.com/user-attachments/assets/4b4e89bb-1e16-46ec-80a1-0e63f756266f" />
+
+***
+
 **GASPIG: Gated Arbitration of Schema Semantics and Pattern-Instance Graph for Document-Level Event Argument Extraction**   (_CSCWD 2026 , Corresponding Author_)
 
 We introduce the GASPIG framework to address the challenge faced by existing methods in balancing graph topology with schema semantics.
@@ -45,14 +53,6 @@ We introduce the GASPIG framework to address the challenge faced by existing met
 
 ***
 
-
-**Game-Based LLM Inference Task Offloading for Edge Computing System** (	_IEEE Transactions on Green Communications and Networking, Corresponding Author_ ) 
-
-We develop a Game-theoretic Offloading Algorithm (GOALIT) to optimize LLM inference offloading and address the natural tendency of selfish users for personal utility maximization.
-
-<img width="549" height="665" alt="image" src="https://github.com/user-attachments/assets/4b4e89bb-1e16-46ec-80a1-0e63f756266f" />
-
-***
  
 **DPFuzz: A fuzz testing tool based on the guidance of defect prediction** ( _Science of Computer Programming, Corresponding Author_ )
 
