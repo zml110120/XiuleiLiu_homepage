@@ -59,3 +59,12 @@ In this paper, we introduce DPFuzz, a tool for prioritizing the resource allocat
 We propose a new approach that combines the large language models(LLMs) and the small language models(SLMs) to address overlapping and nested events.    
 
 <img width="1325" height="420" alt="image" src="https://github.com/user-attachments/assets/e117134b-8fcd-456d-8001-ad0fe0a19114" />
+
+****
+
+**LLM-Driven Evolutionary Search for IoT Task Scheduling in Edge Computing** ( ICWS 2026, First author)
+
+We proposes LCE-IDT, a Large Language Model (LLM)-driven code evolution framework.     This framework leverages the semantic understanding and code generation capabilities of LLMs to iteratively optimize scheduling policies.    
+
+<img width="674" height="450" alt="image" src="https://github.com/user-attachments/assets/edeba56c-d6a8-4fd0-bccf-6283dc8a6a9d" />
+
