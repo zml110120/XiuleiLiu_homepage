@@ -26,6 +26,15 @@ We introduce CGSVD framework that leverages a dual level non-uniform allocation 
 
 <img width="865" height="350" alt="image" src="https://github.com/user-attachments/assets/fd412cdf-d182-4837-9cfd-055a888cbe81" />
 
+****
+
+**LLM-Driven Evolutionary Search for IoT Task Scheduling in Edge Computing** ( ICWS 2026, First author)
+
+We proposes LCE-IDT, a Large Language Model (LLM)-driven code evolution framework.     This framework leverages the semantic understanding and code generation capabilities of LLMs to iteratively optimize scheduling policies.    
+
+<img width="674" height="450" alt="image" src="https://github.com/user-attachments/assets/edeba56c-d6a8-4fd0-bccf-6283dc8a6a9d" />
+
+
 ***
 
 **GASPIG: Gated Arbitration of Schema Semantics and Pattern-Instance Graph for Document-Level Event Argument Extraction**   (_CSCWD 2026 , Corresponding Author_)
@@ -60,11 +69,5 @@ We propose a new approach that combines the large language models(LLMs) and the 
 
 <img width="1325" height="420" alt="image" src="https://github.com/user-attachments/assets/e117134b-8fcd-456d-8001-ad0fe0a19114" />
 
-****
 
-**LLM-Driven Evolutionary Search for IoT Task Scheduling in Edge Computing** ( ICWS 2026, First author)
-
-We proposes LCE-IDT, a Large Language Model (LLM)-driven code evolution framework.     This framework leverages the semantic understanding and code generation capabilities of LLMs to iteratively optimize scheduling policies.    
-
-<img width="674" height="450" alt="image" src="https://github.com/user-attachments/assets/edeba56c-d6a8-4fd0-bccf-6283dc8a6a9d" />
 
