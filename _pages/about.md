@@ -52,3 +52,10 @@ In this paper, we introduce DPFuzz, a tool for prioritizing the resource allocat
 
 <img width="1465" height="430" alt="image" src="https://github.com/user-attachments/assets/4be86c05-e518-4392-b78e-f4b505496ee7" />
 
+****
+
+**DPEE: A Dual-Prompt Framework for Overlapping and Nested Event Extraction** ( _International Joint Conference on Neural Networks, Corresponding Author_ )
+
+We propose a new approach that combines the large language models(LLMs) and the small language models(SLMs) to address overlapping and nested events.    
+
+<img width="1325" height="420" alt="image" src="https://github.com/user-attachments/assets/e117134b-8fcd-456d-8001-ad0fe0a19114" />
