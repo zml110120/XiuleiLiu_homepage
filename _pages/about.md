@@ -44,8 +44,8 @@ We develop a Game-theoretic Offloading Algorithm (GOALIT) to optimize LLM infere
 <img width="549" height="665" alt="image" src="https://github.com/user-attachments/assets/4b4e89bb-1e16-46ec-80a1-0e63f756266f" />
 
 ***
-
-**DPFuzz: A fuzz testing tool based on the guidance of defect prediction** 
+ 
+**DPFuzz: A fuzz testing tool based on the guidance of defect prediction** ( _Science of Computer Programming, Corresponding Author_ )
 
 In this paper, we introduce DPFuzz, a tool for prioritizing the resource allocation of fuzz testing.  DPFuzz guides fuzz testing by calculating the fitness score, which is based on the coverage of modules with different defect proneness.  
 
